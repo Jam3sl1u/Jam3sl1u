@@ -63,9 +63,9 @@ Write-ups live in the [portfolio repo](https://github.com/Jam3sl1u/portfolio).
 ## GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" />
-  <img alt="GitHub stats for Jam3sl1u" height="165" src="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&hide_rank=true&hide=stars" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&hide_rank=true&hide=stars" />
+  <img alt="GitHub stats for Jam3sl1u" height="165" src="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&hide_rank=true&hide=stars" />
 </picture>
 
 ## Contact
