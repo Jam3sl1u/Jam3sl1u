@@ -46,7 +46,7 @@ Team testing outside the repo: 1,430 generated training examples and a 500-examp
 
 My part: the Flan and Claude API routes, date and time resolution, the app shell and events page, and the Jest route and live integration tests.
 
-Write-ups live in the [portfolio repo](https://github.com/Jam3sl1u/portfolio).
+Write-ups on the [portfolio site](https://jam3sl1u.github.io/portfolio/): [Chariot](https://jam3sl1u.github.io/portfolio/#/work/chariot), [Graceful](https://jam3sl1u.github.io/portfolio/#/work/graceful), [AI Calendar](https://jam3sl1u.github.io/portfolio/#/work/ai-calendar), and [Beall](https://jam3sl1u.github.io/portfolio/#/work/beall).
 
 ## Skills
 
@@ -59,14 +59,6 @@ Write-ups live in the [portfolio repo](https://github.com/Jam3sl1u/portfolio).
 **Testing:** Jest, Playwright, GitHub Actions
 
 **AI:** LLMs and RAG, OpenRouter
-
-## GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&hide_rank=true&hide=stars" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&hide_rank=true&hide=stars" />
-  <img alt="GitHub stats for Jam3sl1u" height="165" src="https://github-readme-stats.vercel.app/api?username=Jam3sl1u&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&hide_rank=true&hide=stars" />
-</picture>
 
 ## Contact
 
